@@ -1,0 +1,5 @@
+﻿  Multiply Inverse.cpp
+E:\Algebra FoundationsCryptography\Multiply Inverse\Multiply Inverse\Multiply Inverse.cpp(28,9): warning C4101: 'k': unreferenced local variable
+E:\Algebra FoundationsCryptography\Multiply Inverse\Multiply Inverse\Multiply Inverse.cpp(28,21): warning C4101: 'y': unreferenced local variable
+E:\Algebra FoundationsCryptography\Multiply Inverse\Multiply Inverse\Multiply Inverse.cpp(28,18): warning C4101: 'x': unreferenced local variable
+  Multiply Inverse.vcxproj -> E:\Algebra FoundationsCryptography\Multiply Inverse\x64\Debug\Multiply Inverse.exe
